@@ -47,6 +47,529 @@
         ]
     },
     {
+        "id": "3",
+        "category": "Hot Coffee",
+        "children": [
+            {
+                "id": "1",
+                "name": "Americano",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Brewed Coffee",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Cafe Latte",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Cafe Mocha",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Cappuccino",
+                "price": 9.00
+            },
+            {
+                "id": "6",
+                "name": "Caramel Machiato",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Espresso",
+                "price": 54.00
+            },
+            {
+                "id": "8",
+                "name": "Espresso Machiato",
+                "price": 54.00
+            },
+            {
+                "id": "9",
+                "name": "Flavour Latte",
+                "price": 54.00
+            },
+            {
+                "id": "10",
+                "name": "Large Coffee Refill Discount",
+                "price": 54.00
+            },
+            {
+                "id": "11",
+                "name": "Medium coffee Refill Discount",
+                "price": 54.00
+            },
+            {
+                "id": "12",
+                "name": "White Mocha",
+                "price": 54.00
+            },
+            {
+                "id": "13",
+                "name": "Seasonal Special Drinks",
+                "price": 54.00
+            },
+            {
+                "id": "14",
+                "name": "Dreamy Coconut Latte",
+                "price": 54.00
+            },
+            {
+                "id": "15",
+                "name": "Holiday Flavours",
+                "price": 54.00
+            },
+            {
+                "id": "16",
+                "name": "Pumpkin Lovers Specials",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "category": "Hot Tea & Other",
+        "children": [
+            {
+                "id": "1",
+                "name": "Matcha Latte",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Chai Latte",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Tokyo Fog",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "London Fog",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Sloane Tea",
+                "price": 9.00
+            },
+            {
+                "id": "6",
+                "name": "Japanese Green Tea",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Traditional Matcha",
+                "price": 54.00
+            },
+            {
+                "id": "8",
+                "name": "Hot Chocolate",
+                "price": 54.00
+            },
+            {
+                "id": "9",
+                "name": "Hojicha Latte",
+                "price": 54.00
+            },
+            {
+                "id": "10",
+                "name": "Steamer",
+                "price": 54.00
+            },
+            {
+                "id": "11",
+                "name": "White CHocolate Matcha Latte",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "category": "Bubble Tea",
+        "children": [
+            {
+                "id": "1",
+                "name": "Pumpkin Spice"
+            },
+            {
+                "id": "2",
+                "name": "Smoothie Style BBT"
+            },
+            {
+                "id": "3",
+                "name": "Traditional Style BBT"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "category": "Iced Coffee",
+        "children": [
+            {
+                "id": "1",
+                "name": "Iced Americano"
+            },
+            {
+                "id": "2",
+                "name": "Iced Coffee Latte"
+            },
+            {
+                "id": "3",
+                "name": "Iced Cafe Mocha"
+            },
+            {
+                "id": "1",
+                "name": "Iced Caramel Machiato"
+            },
+            {
+                "id": "2",
+                "name": "Iced Flavor Latte"
+            },
+            {
+                "id": "1",
+                "name": "Iced Seasonal Drink"
+            },
+            {
+                "id": "2",
+                "name": "Iced Steameer"
+            },
+            {
+                "id": "1",
+                "name": "Iced White Mocha"
+            },
+            {
+                "id": "2",
+                "name": "Iced Dreamy Coconut Latte"
+            },
+            {
+                "id": "1",
+                "name": "Iced Holiday Flavours"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "category": "Iced Tea",
+        "children": [
+            {
+                "id": "1",
+                "name": "Iced Matcha Latte",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Iced Tea",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Iced Green Tea",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Iced London Fog",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Iced Tokyo Fog",
+                "price": 9.00
+            },
+            {
+                "id": "6",
+                "name": "Seasonal",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Iced Coconut Oat Tokyo Fog",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "category": "Ice Other Drink",
+        "children": [
+            {
+                "id": "1",
+                "name": "Iced Chai Latte",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Chocolate Milk",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Italian Soda",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Special Drink",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Pop",
+                "price": 9.00
+            },
+            {
+                "id": "6",
+                "name": "Passion Soda(Large ONly)",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Rose Soda",
+                "price": 54.00
+            },
+            {
+                "id": "8",
+                "name": "Melon Soda Float",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Melon Soda",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "category": "Crepe & Honey Toast",
+        "children": [
+            {
+                "id": "1",
+                "name": "Honey Toast",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "1/2 Honey Toast",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Sweet Crepe",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Binsoo",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "category": "OPEN",
+        "children": [
+            {
+                "id": "1",
+                "name": "Open Food",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Steam Rice",
+                "price": 5.50
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "category": "Apetizers",
+        "children": [
+            {
+                "id": "1",
+                "name": "Agadeshi Dofu",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Chicken Carage",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Dashimaki Tamago",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Edamame",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Garden Salad",
+                "price": 9.00
+            },
+            {
+                "id": "6",
+                "name": "Gyoza (4pc)",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Mini Seaweed Salad",
+                "price": 54.00
+            },
+            {
+                "id": "8",
+                "name": "Miso Soup",
+                "price": 54.00
+            },
+            {
+                "id": "9",
+                "name": "Nitamago",
+                "price": 54.00
+            },
+            {
+                "id": "10",
+                "name": "Spring ROll(4 pc)",
+                "price": 54.00
+            },
+            {
+                "id": "11",
+                "name": "Salmon Kawa",
+                "price": 54.00
+            },
+            {
+                "id": "12",
+                "name": "Seaweed salad",
+                "price": 54.00
+            },
+            {
+                "id": "13",
+                "name": "Spicy Chicken",
+                "price": 54.00
+            },
+            {
+                "id": "14",
+                "name": "Tempura Shrimp (5 pc)",
+                "price": 54.00
+            },
+            {
+                "id": "15",
+                "name": "Tempura Vegetables (6pc)",
+                "price": 54.00
+            },
+            {
+                "id": "16",
+                "name": "Takoyaki (5pcs)",
+                "price": 54.00
+            },
+            {
+                "id": "17",
+                "name": "Pumpkin Coconut Soup",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "category": "BBQ Eel Don",
+        "children": [
+            {
+                "id": "1",
+                "name": "Agadeshi Dofu",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Gyu- Don",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Katsu Curry",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Katsu Don",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Teriyaki Chicken Don",
+                "price": 9.00
+            },
+            {
+                "id": "6",
+                "name": "Veggie Curry Rice",
+                "price": 54.00
+            },
+            {
+                "id": "7",
+                "name": "Teri Mayo Don",
+                "price": 54.00
+            },
+            {
+                "id": "8",
+                "name": "Chasu Don",
+                "price": 54.00
+            },
+            {
+                "id": "9",
+                "name": "Ten Don",
+                "price": 54.00
+            },
+            {
+                "id": "10",
+                "name": "Mini Chashu Don",
+                "price": 54.00
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "category": "Ramen",
+        "children": [
+            {
+                "id": "1",
+                "name": "Shoyu Ramen",
+                "price": 5.00
+            },
+            {
+                "id": "2",
+                "name": "Miso Ramen",
+                "price": 5.50
+            },
+            {
+                "id": "3",
+                "name": "Dan Dan Ramen",
+                "price": 2.50
+            },
+            {
+                "id": "4",
+                "name": "Tankotsu Ramen",
+                "price": 54.00
+            },
+            {
+                "id": "5",
+                "name": "Kagashi Garlic Tonkotsu",
+                "price": 9.00
+            }
+        ]
+    },
+    {
         "id": "14",
         "category": "Rolls",
         "children": [
@@ -61,7 +584,77 @@
                     },
                     {
                         "id": "2",
+                        "name": "Yam & Avocado Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "3",
+                        "name": "Chicken Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "4",
+                        "name": "Tempura Crab Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "5",
+                        "name": "Tempura Mushroom Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "6",
+                        "name": "Spicy Veggie Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "7",
                         "name": "Dynamite Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "8",
+                        "name": "Bagel Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "9",
+                        "name": "Salmon Tuna Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "10",
+                        "name": "BBQ Eel Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "11",
+                        "name": "Spicy Tuna Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "12",
+                        "name": "Spicy Salmon & Avocado Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "13",
+                        "name": "SK Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "14",
+                        "name": "Acc Roll",
+                        "price": 10.00
+                    },
+                    {
+                        "id": "15",
+                        "name": "Cucumber Roll",
+                        "price": 5.00
+                    },
+                    {
+                        "id": "16",
+                        "name": "Avocado Roll",
                         "price": 10.00
                     }
                 ]
